@@ -28,4 +28,4 @@ production:
   <<: *default
   database: myrubyblog
   username: postgres
-  password: Pos3267!
+  password: Pos3267!      
